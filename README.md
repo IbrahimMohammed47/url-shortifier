@@ -1,8 +1,8 @@
 # url-shortifier
 a URL shortning service built on redis
 
-This service is an app that allows users to have small aliases to big and ugly URLs.
+This service enables you t transform big and ugly URLs to short URLs that can be easily shared and memorized. 
 
-It is fast: runs on memort, no disk IOs. :rocket:
+Fast: runs on memort, no disk IOs. :rocket:
 
-It is secure: all urls are checked for malicious content before they are shortened. :lock:
+Secure: all urls are checked for malicious content before they are shortened. :lock:
